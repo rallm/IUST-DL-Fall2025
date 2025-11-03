@@ -42,7 +42,7 @@ It covers both theoretical foundations and hands-on exercises involving real-wor
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/Rahmat-ML/IUST-DL-Fall2025.git
+   git clone https://github.com/rallm/IUST-DL-Fall2025.git
   ```
 
 
